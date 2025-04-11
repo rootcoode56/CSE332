@@ -1,3 +1,3 @@
 # CSE332
 Computer Architecture
-All MIPS Code here
+All MIPS assembly Code here
